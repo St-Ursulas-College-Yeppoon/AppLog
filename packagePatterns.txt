@@ -1,4 +1,10 @@
+*AmazonVideo.PrimeVideo*
+*OpenAI.ChatGPT*
+*PLAYCUSLIMITED*
+*PlaylabsLLC*
+*VIZORAPPSLTD*
 *WhatsAppDesktop*
+*WuhanNetPowerTechnologyCo*
 0D9A1B2D.AnimationDeskCloud_1.24.4.0_x64__jhretta7p24aw
 0EB8BD08.MysteryManorhiddenobjects_7.50.0.0_x86__erk4rrwmt7jyt
 0EB8BD08.MysteryManorhiddenobjects_7.70.0.0_x86__erk4rrwmt7jyt
@@ -254,6 +260,7 @@
 46614NiceView.TexttoSpeech_1.0.38.0_x64__mbkqqar0c2q2m
 46614NiceView.TexttoSpeech_1.0.39.0_x64__mbkqqar0c2q2m
 46688PrimordiumGameStudio.PrimordiumMemoryGame_2.0.2.0_x86__mcv5gb6wbec7y
+47236EllyFieldStudios.32361E2022BF_1.9.5011.0_neutral__zybqzn5rhh0ha
 476931bsyl.Solitaire_1.7.0.0_x64__cgv7566y2ek3j
 47973borneomobile.GuessTheCelebs_1.1.0.2_x86__hjdz3r29yebja
 4801DoubleFun.BlockPuzzleTetris-ClassicBrick_1.2.3.0_x64__a8n98a0szc448
@@ -271,6 +278,7 @@
 50180MargalaGames.Keyboard3DPaintArtASMR_1.0.2.0_x64__t4eb5xcfmqvtt
 50180MargalaGames.WaterSortPuzzleColorSorting_1.0.0.0_x64__t4eb5xcfmqvtt
 50879HeisenGames.HorrorHospital2_1.2.0.0_x64__rhdync4qw3yb0
+51248Raximus.Dobryplan_2.0.12.0_x64__j74bw2d00ynqy
 51599CardGuruGameStudio.DOS2022_1.0.1.0_x64__t3jp2aq7wdp26
 52299SuperElement.119436511DDC8_7.0.0.0_neutral__792yctbvabkar
 5259FreeSoftwareApps.CommandsList_1.2.0.0_x64__nzrphq7phantj
@@ -412,6 +420,7 @@
 7458BE2C.WorldofTanksBlitz_11.12.190.0_x64__x4tje2y229k00
 7659327F2E2D.SunsetBikeRacer_61.0.1.0_x64__7n208ewypdejc
 7817LissyWooInc.8BallBilliards-SuperChallenge_1.0.9.0_x64__dpfj2md5wt7vw
+7883KlimoffDevelopment.SmartWidgets_3.0.12.0_x64__c61e0g1bpkd46
 7883KlimoffDevelopment.SmartWidgets_3.0.7.0_x64__c61e0g1bpkd46
 7901GamesTechNetworkLimit.StackColor_6.6.6.0_x86__ksdfqygb37gsy
 7EE7776C.LinkedInforWindows_3.0.42.0_x64__w1wdnht996qgy
@@ -431,6 +440,7 @@
 828B5831.SheriffofMahjong_1.60.6000.0_x64__ytsefhwckbdv6
 828B5831.SupermarketManiaJourney_3.12.1300.0_x64__ytsefhwckbdv6
 828B5831.WordplayExerciseyourbrain_1.14.1600.0_x64__ytsefhwckbdv6
+8338Giuapps.Inkodo_3.12.20.0_x64__pzan5b7zgydq2
 833AtoZ.194582F70F111_6.0.0.0_x64__58zqz9enehr0r
 8610Gtoutdoor.YMusicForListeningYoutubeMusic_6.6.1.0_x64__rnd4n5ktzrvp2
 89E2DF08.VPNUnlimited-SecurePrivateInternetConnect_9.5.3.0_x64__6bkczb78q4msy
@@ -461,7 +471,6 @@ AiphoriaStudioLLC.CustomDesktopKit_1.4.2.0_x64__a40bt28c7stmy
 AkademGmbH.SketchbookIllustration_1.7.2.0_x64__gn2z3rcqm3jrj
 Aliexpert.AliExpressmarket_1.1.0.0_neutral__3ftdcwca8yw4w
 AmazingGamesNetwork.AmazingSquares_2.0.128.0_x64__vs3hshwbfdy36
-*AmazonVideo.PrimeVideo*
 AmazonVideo.PrimeVideo_1.0.174.0_x64__pwbj9vvecjh7j
 AmazonVideo.PrimeVideo_1.1.5.0_x64__pwbj9vvecjh7j
 AmazonVideo.PrimeVideo_2.0.0.0_x64__pwbj9vvecjh7j
@@ -470,6 +479,7 @@ ApolloVibesLLC.TransitionsDJ_1.7.160.0_x86__3c6p7qbg3remr
 ApolloVibesLLC.TransitionsDJ_1.7.169.0_x86__3c6p7qbg3remr
 APPSPRINGSTOO.DigitalNotebook_1.2.4.0_x64__q53y1qve0sjp6
 APPTERRATOO.DigitalStudyPlan_1.3.6.0_x64__p5qfxbyh66jxe
+APPTERRATOO.DigitalStudyPlan_1.3.7.0_x64__p5qfxbyh66jxe
 ArtifexMundi.Unsolved_2.7.22.0_x64__xmkq9zz36w32m
 ARTWorldAsia.MakeupStylistStudio_1.5.3.0_x64__d4ezavaz6afge
 ATrillionGamesLtd.3DChessMaster_3.4.1.0_x64__2cw2yhd8jafk0
@@ -494,6 +504,7 @@ BeLightSoftware3DUSALLC.LiveHome3D_4.11.1607.0_x64__72e05f7xb45sj
 BigDuckGamesLLC.Flow_1.7.0.3_x64__1eenntbmr0etw
 BigDuckGamesLLC.FlowBridges_1.1.0.3_x64__1eenntbmr0etw
 BigFishCube.FashionFever-DressingGame_1.0.5.0_x64__ybcwnm6d4mw6y
+BigFishCube.IdleTaxiTycoon_1.0.3.0_x64__ybcwnm6d4mw6y
 BitMango.BubblePopPuzzleGameLegend_25.703.0.0_x64__2b8nme4t3zjry
 BitMango.LinePuzzlePipeArt_20.630.0.0_x64__2b8nme4t3zjry
 BitMango.SweetHomeDesign_24.307.0.0_x64__2b8nme4t3zjry
@@ -567,6 +578,7 @@ ECA35E11.FamilyTownMatch-3Makeover_21.22.25348.0_x64__d7x0evqfankj4
 edaysoft.1010BlockKing_1.1.1.0_x86__pc0mrnphfj0qm
 EducationTerra.MasterOfTypingProf_3.6.2.0_x64__aew2w7wqb3wmj
 Eidolon.DifferencesFindHiddenObjectsPuzzle_2.2.121.0_x64__rfy30mf7tpjba
+Eidolon.Lamplighter_1.0.23.0_x64__rfy30mf7tpjba
 ELANMicroelectronicsCorpo.AcerFingerprintPBA_1.0.6.0_x64__stws0m115j6hg
 Enflick.TextNow-UnlimitedTextCalls_23.21.0.0_x64__dkxvxr4vem6pc
 Evernote.Evernote_10.156.2.0_x64__q4d96b2w5wcc2
@@ -621,6 +633,7 @@ InternetResheniaLLC.WildHorseRide_1.1.5.0_x64__33qpm2jgt4cdj
 IOForth.FilmForth_2.3.21.0_x64__pxs7cjhtcq1xt
 IOForth.FilmForth_2.3.22.0_x64__pxs7cjhtcq1xt
 IroncladGameworks.AvatarsSimAdventure_1.0.0.0_x64__bmawcfjtvkxb0
+JellyBeans.MageTowerIdleDefense_1.0.27.0_x64__hsrnyackr7qce
 JessicaDeneEarley-Cha.CmdPalCatPetExtension_0.0.4.0_x64__d5hz9k63v5at4
 JHDigitalSolutions.ArtPixelsColorbyNumber_1.0.1.0_x64__f3z6ebt2frzre
 JHDigitalSolutions.ColorbyNumberforAdults_16.1.76.0_x64__f3z6ebt2frzre
@@ -652,6 +665,7 @@ king.com.CandyCrushSaga_1.3141.1.0_x64__kgqvnymyfvs32
 king.com.CandyCrushSaga_1.3150.1.0_x64__kgqvnymyfvs32
 king.com.CandyCrushSaga_1.3201.1.0_x64__kgqvnymyfvs32
 king.com.CandyCrushSaga_1.3212.1.0_x64__kgqvnymyfvs32
+king.com.CandyCrushSaga_1.3220.1.0_x64__kgqvnymyfvs32
 king.com.CandyCrushSodaSaga_1.301.400.0_x64__kgqvnymyfvs32
 king.com.CandyCrushSodaSaga_1.302.300.0_x64__kgqvnymyfvs32
 king.com.CandyCrushSodaSaga_1.303.100.0_x64__kgqvnymyfvs32
@@ -662,6 +676,7 @@ KittyStudios.TocaWorldAdventure_1.0.1.0_x64__5b7evz89dp05t
 KXGames.BabyHazelHarvestFestival_1.0.1.0_x64__r214dx7jg6vvp
 KzkModernSystems.CursorMaster_1.3.2.0_x64__zas4494ew1pjm
 LaVitaAppsTOO.DesktopWidgetTools_1.3.2.0_x64__90pdqp8dxt636
+LaVitaAppsTOO.DesktopWidgetTools_1.3.3.0_x64__90pdqp8dxt636
 LaVitaAppsTOO.DigitalNoteJournal_1.3.0.0_x64__90pdqp8dxt636
 MAGIX.MusicMakerJam_3.1.1.0_x64__a2t3txkz9j1jw
 MATRYOSHKAGAMESCYLTD.RoyalCooking-Cookinggames_1.18.1.0_x64__rzcd9ha7rscxr
@@ -698,7 +713,6 @@ Nordcurrent.HappyClinic_13.0.0.0_x64__m9bz608c1b9ra
 Nordcurrent.HappyClinic_13.0.1.0_x64__m9bz608c1b9ra
 NoSixFive.CosmoRun_2018.308.8.0_x64__jys3mrh362j1g
 OneTapGames.AircraftFlight-PilotSimulator_1.9.0.0_x64__pq9n2tdep2ssp
-*OpenAI.ChatGPT*
 OpenAI.ChatGPT-Desktop_1.2025.224.0_x64__2p2nqsd0c76g0
 OpenAI.ChatGPT-Desktop_1.2026.43.0_x64__2p2nqsd0c76g0
 Phalcode.174950BD81C41_1.17.4.0_x64__dymsgn3qpfjxc
@@ -708,11 +722,9 @@ PhantomEFXLLC.JackpotParty_5065.1.141.0_x64__t0y5gmchvskv4
 PicturePerfectApps.MusicPlayer-MP3AudioPlayer_4.2.50.0_x64__e40414p8savay
 PipaStudios.PraiaBingo_41.4.0.0_x86__vpppr87n0nbe2
 PlariumGlobal.MergeGardens_1.0.17.0_x64__mfbnfvhg4da4g
-*PLAYCUSLIMITED*
 PLAYCUSLIMITED.613673D30D169_0.0.232.0_x86__0r188nc9sh8qa
 PLAYCUSLIMITED.BingoStar-BingoGames_1.100.721.0_x86__0r188nc9sh8qa
 PLAYCUSLIMITED.CrossStitchColorfulArt_0.0.114.0_x86__0r188nc9sh8qa
-*PlaylabsLLC*
 PlaylabsLLC.PlanetCraft_6.2.1.0_x64__2919ryhc0tmbe
 PlaylabsLLC.Worldcraft_3.8.8.0_x64__2919ryhc0tmbe
 Playoneer.SudokuClassic_1.3.9.0_x64__mv5msa4ccynq4
@@ -741,11 +753,13 @@ PLRWORLDWIDESALES.TOWNSHIP_2021.3001.1.0_x64__1feq88045d2v2
 PLRWORLDWIDESALES.TOWNSHIP_2021.3100.1.0_x64__1feq88045d2v2
 PLRWORLDWIDESALES.TOWNSHIP_2021.3110.1.0_x64__1feq88045d2v2
 PLRWORLDWIDESALES.TOWNSHIP_2021.3310.1.0_x64__1feq88045d2v2
+PLRWORLDWIDESALES.TOWNSHIP_2021.3401.1.0_x64__1feq88045d2v2
 Pocketart.studio.FashionDesignSketchesCreator_2.7.6.0_x64__rxh103pp772wy
 PrettySimple.CriminalCase1_3.38.0.0_x64__987dhkccr90c8
 PulsarStudio.RoadTruckDriver_1.2.0.0_x64__7e0kd6z60kqg4
 PulsarStudio.RoadTruckDriver_1.3.1.0_x64__7e0kd6z60kqg4
 PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0
+QubitTech.DesktopPets-_0.0.14.0_x64__j28p39ec6nr92
 QuizletInc.Quizlet_1.0.1.0_neutral__1kmnvb67sms8a
 RainService.Transcribe-SpeechtoText_1.0.22.0_x64__9rnkkmas59rw2
 REDBRIXWALLLIMITED.GlobalCity_0.7.8668.0_x64__cyyqsptgpbsk8
@@ -847,6 +861,7 @@ SpinXGamesLimited.CashFrenzy_4.55.0.0_x64__kr7tbcxm4jdh6
 SpinXGamesLimited.LotsaSlots_1.1.11.0_x86__kr7tbcxm4jdh6
 SpinXGamesLimited.LotsaSlots_1.1.13.0_x86__kr7tbcxm4jdh6
 SpinXGamesLimited.LotsaSlots_1.1.14.0_x86__kr7tbcxm4jdh6
+SpinXGamesLimited.LotsaSlots_1.1.21.0_x86__kr7tbcxm4jdh6
 SpiralInteractive.TechnicalGambinoSlots_10.50.2.0_x64__1mh88v1m6sn8j
 SpiralInteractive.TechnicalGambinoSlots_10.60.1.0_x64__1mh88v1m6sn8j
 SprakelsoftUG.646865814BA2B_1.1.13.0_x64__ge3twpst8dtre
@@ -897,14 +912,12 @@ UnitMGames.NewbornBabyBirth-LittleGirlsGame_1.1.0.0_x86__tt48tp7szpztr
 UptoElevenDigitalSolution.mysms-Textanywhere_3.2.2.0_x64__c9d6r4qvva5x8
 VectorUnit.BeachBuggyRacing_2024.10.13.0_x64__hvbhrzr8672s2
 VideoLAN.VLC_3.2.1.0_x64__paz6r1rewnh0a
-*VIZORAPPSLTD*
 VIZORAPPSLTD.433515DC98E41_2.137.0.0_x64__r39ze6jmgwgn8
 VIZORAPPSLTD.433515DC98E41_2.138.0.0_x64__r39ze6jmgwgn8
 VIZORAPPSLTD.433515DC98E41_2.144.1.0_x64__r39ze6jmgwgn8
 VORTEXLABSTOO.CustomCuteCursors_1.3.5.0_x64__49x7jrevqbam0
 Webelinx.FashionDressUp3DGameforGirls_1.0.0.5_x86__907qadaycgbb4
 WizardsTimeLLC.MakeACake-CookingGames_1.1.2.0_x86__k8n4acezppwj2
-*WuhanNetPowerTechnologyCo*
 WuhanNetPowerTechnologyCo.112366801E823_5.7.3.0_neutral__63m8b6nby1dvp
 WuhanNetPowerTechnologyCo.58808405FEBD5_5.0.6.0_x64__63m8b6nby1dvp
 WuhanNetPowerTechnologyCo.59298FDEA773D_6.2.4.0_x64__63m8b6nby1dvp
@@ -913,8 +926,10 @@ Wuxxu.Mailee_3.5.2.0_x64__3scsf2wvvzy2y
 XDEVS.CodeofWarGunShootingGames_3.19.1.0_x64__7yw2516a0mwqy
 XDEVS.StrikerZone3DOnlineShooter_3.28.0.0_x64__7yw2516a0mwqy
 XIMADINC.MagicPuzzles_4.16.2.0_x64__np8fj6akx2czy
+XIMADINC.MagicPuzzles_4.17.2.0_x64__np8fj6akx2czy
 YASHFUTURETECHSOLUTIONSPV.FlappyFly_1.0.1.0_x64__rs8r5b65h5hnj
 ydangleappsptyltd.2321937020BA4_2015.1007.5.0_x64__eq3ytty7s9xzy
 YellowElephantProductions.EasyStickyNotes_1.241.165.0_x64__p3e1zgp7z7szg
 YFTSTUDIOS.HorrorAdventureZombieEditionDemo_1.0.0.0_x64__rnkm7051rsqgt
 Yodo1Ltd.CrossyRoad_1.3.4.0_x86__s3s3f300emkze
+ZenifyLLC.VirtualDesktopPet_1.1.6.0_x64__s5tdgbyvf9c9m
