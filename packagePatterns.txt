@@ -262,6 +262,7 @@
 46688PrimordiumGameStudio.PrimordiumMemoryGame_2.0.2.0_x86__mcv5gb6wbec7y
 47236EllyFieldStudios.32361E2022BF_1.9.5011.0_neutral__zybqzn5rhh0ha
 476931bsyl.Solitaire_1.7.0.0_x64__cgv7566y2ek3j
+47734IslaBethany.MP3Downloader_1.3.17.0_x64__ygnckf54hnm5g
 47973borneomobile.GuessTheCelebs_1.1.0.2_x86__hjdz3r29yebja
 4801DoubleFun.BlockPuzzleTetris-ClassicBrick_1.2.3.0_x64__a8n98a0szc448
 48405AmbientSoftware.DesktopGadgets_3.4.2.0_x64__agy8jafheqhng
@@ -294,6 +295,7 @@
 5319275A.WhatsAppDesktop_2.2582.2.0_x64__cv1g1gvanyjgm
 5319275A.WhatsAppDesktop_2.2587.10.0_x64__cv1g1gvanyjgm
 5319275A.WhatsAppDesktop_2.2587.9.0_x64__cv1g1gvanyjgm
+5319275A.WhatsAppDesktop_2.2607.106.0_x64__cv1g1gvanyjgm
 53212CraftBuildPlayGames.VEX3Stickman_10.5.4.0_x64__q3wek970eqk38
 53267Brainstorm.WheresWaldo_1.1.0.1_neutral__dqdhfj1tb6en6
 53288ThiagoFortes.WebExplorer_17.2.1162.0_x64__703eyz690w6sm
@@ -572,6 +574,7 @@ Disney.37853FC22B2CE_2024.3.211.0_neutral__6rarf9sa4v8jt
 draw.io.draw.ioDiagrams_28.1.2.0_x64__1zh33159kp73c
 DropboxInc.Dropbox_231.4.5770.0_x64__xbfy0k16fey96
 DropboxInc.Dropbox_234.4.5591.0_x64__xbfy0k16fey96
+dsd164B.V.Snake97_7.0.2.0_x64__w86zgf74xnw38
 E62A57C8.VortekSpacesBeta_3.0.42551.0_x64__axb4p6y1kdwgc
 ECA35E11.ColdscapesMyMatch-3Family_6.10.0.0_x64__d7x0evqfankj4
 ECA35E11.FamilyTownMatch-3Makeover_21.22.25348.0_x64__d7x0evqfankj4
@@ -746,6 +749,7 @@ PLRWorldwideSales.Gardenscapes-NewAcres_9.4.0.0_x64__1feq88045d2v2
 PLRWorldwideSales.Homescapes_8.2.2.0_x64__1feq88045d2v2
 PLRWorldwideSales.Homescapes_8.3.5.0_x64__1feq88045d2v2
 PLRWorldwideSales.Homescapes_8.6.100.0_x64__1feq88045d2v2
+PLRWorldwideSales.Homescapes_8.7.100.0_x64__1feq88045d2v2
 PLRWorldwideSales.ManorMatters_6.0.0.0_x64__1feq88045d2v2
 PLRWORLDWIDESALES.TOWNSHIP_2021.2910.1.0_x64__1feq88045d2v2
 PLRWORLDWIDESALES.TOWNSHIP_2021.3000.1.0_x64__1feq88045d2v2
