@@ -771,7 +771,6 @@ Pocketart.studio.FashionDesignSketchesCreator_2.7.6.0_x64__rxh103pp772wy
 PrettySimple.CriminalCase1_3.38.0.0_x64__987dhkccr90c8
 PulsarStudio.RoadTruckDriver_1.2.0.0_x64__7e0kd6z60kqg4
 PulsarStudio.RoadTruckDriver_1.3.1.0_x64__7e0kd6z60kqg4
-PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0
 QubitTech.DesktopPets-_0.0.14.0_x64__j28p39ec6nr92
 QuizletInc.Quizlet_1.0.1.0_neutral__1kmnvb67sms8a
 RainService.Transcribe-SpeechtoText_1.0.22.0_x64__9rnkkmas59rw2
